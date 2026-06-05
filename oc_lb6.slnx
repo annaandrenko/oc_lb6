@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2task/2task.vcxproj" />
+  <Project Path="3task/3task.vcxproj" />
+  <Project Path="oc_lb6/oc_lb6.vcxproj" />
+</Solution>
